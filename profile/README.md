@@ -40,7 +40,7 @@
 | [**aldiwan-api-spec**](https://github.com/aldiwannet/aldiwan-api-spec) | OpenAPI contract — المرجع الرسمي لـ API الديوان | ![active](https://img.shields.io/badge/active-2e7d32?style=flat-square) |
 | [**aldiwan-flutter**](https://github.com/aldiwannet/aldiwan-flutter) | Dart & Flutter SDK رسمي للديوان | ![active](https://img.shields.io/badge/active-2e7d32?style=flat-square) |
 | [**aldiwan-flutter-starter**](https://github.com/aldiwannet/aldiwan-flutter-starter) | Starter app — مشروع Flutter جاهز مع دعم RTL وأمثلة حقيقية | ![active](https://img.shields.io/badge/active-2e7d32?style=flat-square) |
-| [**bayan-ai**](https://github.com/aldiwannet/bayan-ai) | بيان AI — مساعد الشعر العربي بالذكاء الاصطناعي | ![beta](https://img.shields.io/badge/beta-e65100?style=flat-square) |
+
 
 ---
 
