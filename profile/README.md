@@ -37,9 +37,9 @@
 
 | المشروع | الوصف | الحالة |
 |---------|-------|--------|
-| [**aldiwan-api-spec**](https://github.com/aldiwannet/aldiwan-api-spec) | OpenAPI contract — المرجع الرسمي لـ API الديوان | ![active](https://img.shields.io/badge/active-2e7d32?style=flat-square) |
-| [**aldiwan-flutter**](https://github.com/aldiwannet/aldiwan-flutter) | Dart & Flutter SDK رسمي للديوان | ![active](https://img.shields.io/badge/active-2e7d32?style=flat-square) |
-| [**aldiwan-flutter-starter**](https://github.com/aldiwannet/aldiwan-flutter-starter) | Starter app — مشروع Flutter جاهز مع دعم RTL وأمثلة حقيقية | ![active](https://img.shields.io/badge/active-2e7d32?style=flat-square) |
+| [**aldiwan-api-spec**](https://github.com/Aldiwan-net/aldiwan-api-spec) | OpenAPI contract — المرجع الرسمي لـ API الديوان | ![active](https://img.shields.io/badge/active-2e7d32?style=flat-square) |
+| [**aldiwan-flutter**](https://github.com/Aldiwan-net/aldiwan-flutter) | Dart & Flutter SDK رسمي للديوان | ![active](https://img.shields.io/badge/active-2e7d32?style=flat-square) |
+| [**aldiwan-flutter-starter**](https://github.com/Aldiwan-net/aldiwan-flutter-starter) | Starter app — مشروع Flutter جاهز مع دعم RTL وأمثلة حقيقية | ![active](https://img.shields.io/badge/active-2e7d32?style=flat-square) |
 
 
 ---
@@ -62,7 +62,7 @@
 
 ```bash
 # استكشف الـ API
-curl https://www.aldiwan.net/api/v2/poems?limit=5
+curl https://api.aldiwan.net/v1/poems?limit=5
 
 # أو استخدم الـ Flutter SDK
 flutter pub add aldiwan_flutter
