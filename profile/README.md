@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/aldiwannet/.github/main/profile/logo.png" alt="الديوان" width="110" />
+<img src="https://raw.githubusercontent.com/Aldiwan-net/.github/main/profile/logo.png" alt="الديوان" width="110" />
 
 <br/><br/>
 
